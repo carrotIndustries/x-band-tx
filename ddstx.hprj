@@ -1,0 +1,17 @@
+{
+    "blocks": [
+        {
+            "block_filename": "top_block.json",
+            "is_top": true,
+            "schematic_filename": "top_sch.json"
+        }
+    ],
+    "board_filename": "board.json",
+    "name": "ddstx",
+    "pool_cache_directory": "cache",
+    "pool_uuid": "6d752bc3-29b3-45df-8cf2-1e3aacefbcc6",
+    "title": "DDS TX",
+    "type": "project",
+    "uuid": "71964282-cb0b-45c4-b7b6-cd1ed34209b9",
+    "vias_directory": "vias"
+}
